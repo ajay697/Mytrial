@@ -1,0 +1,141 @@
+/*-----Header Section*/
+.title{
+  background-color: #1f3c88;
+  color:#fff;
+  padding-bottom:0%
+}
+.container-fluid{
+  padding: 5% 15% 0%;
+}
+.navbar{
+  margin-bottom:4rem;
+}
+.btn-app{
+  margin-top:5%;
+  margin-left: 3%;
+}
+.row_title{
+   padding-bottom:5%;
+}
+#cricket_img{
+  height:100%;
+  padding-left:30%;
+  position: absolute;
+}
+#title_para{
+  font-size:3.5rem;
+}
+
+
+body{
+  font-family:"Ubuntu","sans-serif";
+}
+/*-----Features Section-----*/
+.middle{
+  text-align: center;
+  padding: 5% 10% 3%;
+  position: relative;
+  z-index: 1;
+}
+.fas{
+  padding-bottom:3%;
+  font-size: 3.5rem;
+  color: #0a516d;
+}
+.fas:hover{
+  color: #005792;
+}
+h2{
+  padding-top:2%;
+  font-family: "Montserrat","sans-serif";
+}
+.fas_features{
+  padding-top:2%;
+  color: #bbbbbb;
+}
+@media (max-width:1000px) {
+  .title{
+    text-align: center;
+  }
+  #cricket_img{
+    margin-top: 2%;
+    position: static;
+    height: 70%;
+  }
+  .col-lg-6{
+    align-content: center;
+  }
+}
+/*---Slides Section Winner Section---*/
+.winner-testimonial{
+  margin-bottom: 0;
+  text-align: center;
+  padding-top:5%;
+  padding-left:10%;
+  padding-right:10%;
+  color: #fff;
+  background-image:linear-gradient(#30e3ca,#7efaff);
+}
+.winner-para{
+  font-size: 2.5rem;
+  margin-bottom: 6%;
+  font-family: "Montserrat","sans-serif";
+}
+.winner-img{
+  display: inline-block;
+  width:100px;
+  border-radius: 50%;
+}
+.instruction{
+  margin-top: 4%;
+  font-size:1.5rem;
+}
+.test-btn{
+  margin-bottom:1%;
+}
+/*----Learn To Play----*/
+.learnToPlay{
+  margin:3% 8%;
+  font-size:120%;
+  text-align: center;
+  font-family: "Ubuntu","sans-serif"
+}
+.row{
+  margin-top:5%;
+}
+/*-----Download Section-----*/
+.app-download{
+  padding:5% 10% 3%;
+  background-color: #0c005a;
+  color: #fff;
+  text-align: center;
+}
+/*----footer Section----*/
+.footer{
+  padding:3% 10%;
+  background-color: #33313b;
+  color: #fff;
+  text-align: center;
+}
+.footer_icon{
+  margin-left:3%;
+  margin-bottom:3%;
+}
+hr{
+  display:block;
+   height: 2px;
+   border: 0;
+   border-top: 1px solid #dfdfdf;
+   margin: 1em 0;
+   padding: 0;
+}
+.cust_options{
+  color: #007bff;
+}
+h4{
+  color: #007bff;
+}
+#mail_tag{
+  color: #fff;
+}
+/*===LoginForm====*/
